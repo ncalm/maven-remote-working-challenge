@@ -11,12 +11,12 @@ The responses are stored in 2 csv tables, one for each survey.
 
 Each record represents a single respondent, and contains answers to questions on:
 
-    Their employers’ policies, practices, and attitudes for remote work
-    Their own attitude towards working remotely
-    The amount of time they spent working remotely, and how they spent it
-    The barriers they faced when working remotely, and how they have changed
-    The best and worst aspects of working remotely
-    Their expectations for working remotely in the future
+- Their employers’ policies, practices, and attitudes for remote work
+- Their own attitude towards working remotely
+- The amount of time they spent working remotely, and how they spent it
+- The barriers they faced when working remotely, and how they have changed
+- The best and worst aspects of working remotely
+- Their expectations for working remotely in the future
 
 
 ## How to play the Maven Remote Work Challenge
@@ -25,7 +25,7 @@ For this challenge, your task is to assess the productivity and morale implicati
 
 Here’s how to submit your entry:
 
-    Share a LinkedIn post mentioning @Maven Analytics and the hashtag #mavenremoteworkchallenge, with your single-page visual based on the challenge objective above
-    Complete the official challenge submission form to make sure you are entered for a chance to win
+- Share a LinkedIn post mentioning @Maven Analytics and the hashtag #mavenremoteworkchallenge, with your single-page visual based on the challenge objective above
+- Complete the official challenge submission form to make sure you are entered for a chance to win
 
 Make sure to follow Maven Analytics on LinkedIn for updates on the challenge and invite your connections to play along!
